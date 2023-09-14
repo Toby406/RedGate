@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.explorer.showNonJavaResources": false,
+    "java.project.sourcePaths": [
+        "src\\main\\java",
+        "src\\main\\resources",
+        "src\\test\\java"
+    ],
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.compile.nullAnalysis.mode": "automatic"
+}

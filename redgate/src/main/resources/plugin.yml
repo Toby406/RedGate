@@ -1,0 +1,9 @@
+main : com.github.redgate.App
+name : redgate
+version: 0.2
+api-version: 1.20
+
+commands:
+   redplace:
+      description: Debug shit
+      usage: /debugplacer <block>
